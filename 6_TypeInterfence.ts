@@ -4,8 +4,8 @@ x = true;
 //above code is fully functional
 
 
-let x = 10;
-x = false;
+let y = 10;
+y = false;
 
 //this will show error
-//as x has been already assigned a numerical value
+//as y has been already assigned a numerical value
